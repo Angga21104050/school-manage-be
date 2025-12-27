@@ -54,5 +54,7 @@ Semua API menggunakan format **JSON**.
 ## 🔐 Informasi Login Admin
 
 Login Admin digunakan untuk mengakses **Filament Dashboard**.
+Usernam     : admin@gmail.com
+Password    : 123456789
 
 **URL Admin Panel:**  
